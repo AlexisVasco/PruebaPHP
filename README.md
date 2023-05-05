@@ -34,3 +34,5 @@ En la pestaña "ventas.php" Encontramos el codigo con sus operaciones para reali
 En las pestañas "footer.php" y "header.php" se utiliza BOOTSTRAP 4, FONT AWEAOME 5 y SCRIPT para darle una cabeza a nuestro cuerpo de codigo.
 
 Cabe recalcar que al momento de recibir el correo, no tenia nada del entorno para trabajar, ya que mi equipo esta recien formateado y como no habia trabajado, no tenia nada para realizarlo, lo cual me quito un buen tiempo mientras creaba todo el entorno.
+
+La exportacion de la base de datos quedara en el directorio PhpMyAdmin con el nombre "php_mysql_prueba" en formato sql.
